@@ -8,3 +8,7 @@ Create your own data set with python library h5py and a simple example for image
 3.The images can be resized to different sizes but the size of the .hdf5 file differs very far depending on the size of the images. The       file is 1.14G when the size of the images is (128,128) and 4.57G for (256,256), 18.3G for (512,512). If you are going to modify the code,   please pay attention to the size of the training batch. A simple 6 layers model is applied to train these images.
 
 4.The training accuracy is about 97% after 2000 epochs.
+
+5.Forget my poor English.
+
+References: More detailed tutorial for creating the hdf5 file can be find here: http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
