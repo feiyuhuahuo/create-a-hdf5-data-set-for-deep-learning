@@ -11,4 +11,10 @@ Create your own data set with python library h5py and a simple example for image
 
 5.Forget my poor English.
 
+● create h5 file.py： use your own images to create a hdf5 data set.
+
+● cats_dogs_batch.py: read your hdf5 file and prepare the train batch, test batch.
+
+● cats_dogs_model.py: a simple 6 layers model using the created hdf5 file.
+
 References: More detailed tutorial for creating the hdf5 file can be found here: http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
