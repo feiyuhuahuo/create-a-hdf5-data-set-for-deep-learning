@@ -11,4 +11,4 @@ Create your own data set with python library h5py and a simple example for image
 
 5.Forget my poor English.
 
-References: More detailed tutorial for creating the hdf5 file can be find here: http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
+References: More detailed tutorial for creating the hdf5 file can be found here: http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html
