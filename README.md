@@ -1,7 +1,7 @@
 # create-a-hdf5-data-set-for-deep-learning
-Create your own data set with python library h5py and a simple example for image recognition
+Create your own data set with Python library h5py and a simple example for image classfication.
 
-1.The famous data set "cats vs dogs" data set is used to create .hdf5 file with the python library: h5py.
+1.The famous data set "cats vs dogs" data set is used to create .hdf5 file with the Python library: h5py.
 
 2.The data set contains 12500 dog pictures and 12500 cat pictures. All the images are shuffled randomly and 20000 images are used to train,   5000 images are used to test. 
 
@@ -9,7 +9,6 @@ Create your own data set with python library h5py and a simple example for image
 
 4.The training accuracy is about 97% after 2000 epochs.
 
-5.Forget my poor English.
 
 ● create h5 file.py： use your own images to create a hdf5 data set.
 
